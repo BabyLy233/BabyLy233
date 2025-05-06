@@ -4,7 +4,7 @@ Welcome to my Github profile page 🤗
 
 ### Social
 
-![Static Badge](https://img.shields.io/badge/coderLee_2001-%2307C160?style=for-the-badge&logo=wechat&logoColor=white)
+![Static Badge](https://img.shields.io/badge/coderLee__2001-%2307C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/2105451348-%231EBAFC?style=for-the-badge&logo=qq&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/uid6466658-%2300A1D6?style=for-the-badge&logo=bilibili&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/id124240171-%23D43C33?style=for-the-badge&logo=neteasecloudmusic&logoColor=white)
@@ -25,5 +25,3 @@ Welcome to my Github profile page 🤗
 ### Tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,goland,webstorm,vscode&titles=true&perline=6)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BabyLy233" />
