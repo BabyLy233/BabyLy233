@@ -1,0 +1,23 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.6.0",
+  "description": "profile of my github",
+  "author": "BabyLy233",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "profile",
+    "readme"
+  ],
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.13.0",
+    "eslint": "^9.26.0",
+    "eslint-plugin-format": "^1.0.1"
+  }
+}
