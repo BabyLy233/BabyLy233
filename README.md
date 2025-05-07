@@ -12,7 +12,7 @@ Welcome to my Github profile page 🤗
 
 ### Backend
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,nodejs,golang,fiber,docker&titles=true&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,nodejs,golang,fiber&titles=true&perline=6)
 
 ### Frontend
 
@@ -24,4 +24,4 @@ Welcome to my Github profile page 🤗
 
 ### Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,goland,webstorm,vscode&titles=true&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,goland,webstorm,vscode,docker&titles=true&perline=6)
